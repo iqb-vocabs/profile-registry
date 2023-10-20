@@ -1,4 +1,4 @@
 url,title,decription
 https://raw.githubusercontent.com/iqb-vocabs/p52/master/profile-config.json,"IQB Fremdsprachen Sekundarstufe I, Aufgaben und Items","Metadatenprofile für Aufgaben und Items des IQB im Rahmen der Aufgabenentwicklung für Englisch und Französisch (VERA, Bildungstrend)"
-https://github.com/iqb-vocabs/p11,"IQB Mathematik Primarstufe, Aufgaben und Items","Metadatenprofile für Aufgaben und Items des IQB im Rahmen der Aufgabenentwicklung für Mathematik in der Primarstufe (VERA, Bildungstrend)"
-https://github.com/iqb-vocabs/p12,"IQB Deutsch Primarstufe, Aufgaben und Items","Metadatenprofile für Aufgaben und Items des IQB im Rahmen der Aufgabenentwicklung für Deutsch in der Primarstufe (VERA, Bildungstrend)"
+https://raw.githubusercontent.com/iqb-vocabs/p11/master/profile-config.json,"IQB Mathematik Primarstufe, Aufgaben und Items","Metadatenprofile für Aufgaben und Items des IQB im Rahmen der Aufgabenentwicklung für Mathematik in der Primarstufe (VERA, Bildungstrend)"
+https://raw.githubusercontent.com/iqb-vocabs/p12/master/profile-config.json,"IQB Deutsch Primarstufe, Aufgaben und Items","Metadatenprofile für Aufgaben und Items des IQB im Rahmen der Aufgabenentwicklung für Deutsch in der Primarstufe (VERA, Bildungstrend)"
