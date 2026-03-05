@@ -8,7 +8,7 @@ title,description,type,url
 "IQB Französisch Sekundarstufe I Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Französisch in der Sekundarstufe I (VERA, Bildungstrend)",UNIT,https://w3id.org/iqb/p52/unit/
 "IQB Französisch Sekundarstufe I Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Französisch in der Sekundarstufe I (VERA, Bildungstrend)",ITEM,https://w3id.org/iqb/p52/item/
 "IQB BT-Fragebögen Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der BT-Fragebögen",UNIT,https://w3id.org/iqb/p60/unit/
-IQB BT-Fragebögen Items","Metadatenprofile für Items des IQB im Rahmen der BT-Fragebögen",ITEM,https://w3id.org/iqb/p60/item/
+"IQB BT-Fragebögen Items","Metadatenprofile für Items des IQB im Rahmen der BT-Fragebögen",ITEM,https://w3id.org/iqb/p60/item/
 "VerbundFDB: Kernset Bildungsforschung","Metadatenprofile zur Verbesserung der Metadatenqualität hat sich der VerbundFDB mit dem erweiterten Partnerkreis auf ein Kernset von Metadaten geeinigt.",RESEARCH_STUDY,https://w3id.org/iqb/p80/research_study/
 "IQB Deutsch Sekundarstufe I Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Deutsch in der Sekundarstufe I (VERA, Bildungstrend)",UNIT,https://w3id.org/iqb/p16/unit/
 "IQB Deutsch Sekundarstufe I Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Deutsch in der Sekundarstufe I (VERA, Bildungstrend)",ITEM,https://w3id.org/iqb/p16/item/
