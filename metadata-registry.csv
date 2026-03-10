@@ -1,34 +1,34 @@
-title,description,type,url
-"IQB Mathematik Primarstufe Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Mathematik in der Primarstufe (VERA, Bildungstrend)",unit,https://w3id.org/iqb/p11/unit/
-"IQB Mathematik Primarstufe Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Mathematik in der Primarstufe (VERA, Bildungstrend)",item,https://w3id.org/iqb/p11/item/
-"IQB Deutsch Primarstufe Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Deutsch in der Primarstufe (VERA, Bildungstrend)",unit,https://w3id.org/iqb/p12/unit/
-"IQB Deutsch Primarstufe Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Deutsch in der Primarstufe (VERA, Bildungstrend)",item,https://w3id.org/iqb/p12/item/
-"IQB Englisch Sekundarstufe I Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Englisch in der Sekundarstufe I (VERA, Bildungstrend)",unit,https://w3id.org/iqb/p53/unit/
-"IQB Englisch Sekundarstufe I Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Englisch in der Sekundarstufe I (VERA, Bildungstrend)",item,https://w3id.org/iqb/p53/item/
-"IQB Französisch Sekundarstufe I Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Französisch in der Sekundarstufe I (VERA, Bildungstrend)",unit,https://w3id.org/iqb/p52/unit/
-"IQB Französisch Sekundarstufe I Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Französisch in der Sekundarstufe I (VERA, Bildungstrend)",item,https://w3id.org/iqb/p52/item/
-"IQB BT-Fragebögen Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der BT-Fragebögen",unit,https://w3id.org/iqb/p60/unit/
-"IQB BT-Fragebögen Items","Metadatenprofile für Items des IQB im Rahmen der BT-Fragebögen",item,https://w3id.org/iqb/p60/item/
-"VerbundFDB: Kernset Bildungsforschung","Metadatenprofile zur Verbesserung der Metadatenqualität hat sich der VerbundFDB mit dem erweiterten Partnerkreis auf ein Kernset von Metadaten geeinigt.",research_study,https://w3id.org/iqb/p80/research_study/
-"IQB Deutsch Sekundarstufe I Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Deutsch in der Sekundarstufe I (VERA, Bildungstrend)",unit,https://w3id.org/iqb/p16/unit/
-"IQB Deutsch Sekundarstufe I Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Deutsch in der Sekundarstufe I (VERA, Bildungstrend)",item,https://w3id.org/iqb/p16/item/
-"IQB Deutsch Primarstufe 2004 Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Deutsch in der Primarstufe (VERA, Bildungstrend)",unit,https://w3id.org/iqb/p14/unit/
-"IQB Deutsch Primarstufe 2004 Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Deutsch in der Primarstufe (VERA, Bildungstrend)",item,https://w3id.org/iqb/p14/item/
-"IQB Deutsch Sekundarstufe I 2003 Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Deutsch in der Sekundarstufe I (VERA, Bildungstrend)",unit,https://w3id.org/iqb/p17/unit/
-"IQB Deutsch Sekundarstufe I 2003 Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Deutsch in der Sekundarstufe I (VERA, Bildungstrend)",item,https://w3id.org/iqb/p17/item/
-"IQB Mathematik Primarstufe 2004 Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Mathematik in der Primarstufe (VERA, Bildungstrend)",unit,https://w3id.org/iqb/p15/unit/
-"IQB Mathematik Primarstufe 2004 Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Mathematik in der Primarstufe (VERA, Bildungstrend)",item,https://w3id.org/iqb/p15/item/
-"IQB Englisch Sekundarstufe I 2003/2004 Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Englisch in der Sekundarstufe I (VERA, Bildungstrend)",unit,https://w3id.org/iqb/p54/unit/
-"IQB Englisch Sekundarstufe I 2003/2004 Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Englisch in der Sekundarstufe I (VERA, Bildungstrend)",item,https://w3id.org/iqb/p54/item/
-"IQB Französisch Sekundarstufe I 2003/2004 Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Französisch in der Sekundarstufe I (VERA, Bildungstrend)",unit,https://w3id.org/iqb/p55/unit/
-"IQB Französisch Sekundarstufe I 2003/2004 Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Französisch in der Sekundarstufe I (VERA, Bildungstrend)",item,https://w3id.org/iqb/p55/item/
-"IQB Testprofil Aufgaben","Lange Description Testprofil",unit,https://w3id.org/iqb/p99/unit/
-"IQB Testprofil Items","Lange Description Testprofil",item,https://w3id.org/iqb/p99/item/
-"IQB Mathematik Sekundarstufe I Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Mathematik in der Sekundarstufe I (VERA, Bildungstrend)",unit,https://w3id.org/iqb/p71/unit/
-"IQB Mathematik Sekundarstufe I Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Mathematik in der Sekundarstufe I (VERA, Bildungstrend)",item,https://w3id.org/iqb/p71/item/
-"IQB Physik Sekundarstufe I Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Physik in der Sekundarstufe I (VERA, Bildungstrend)",unit,https://w3id.org/iqb/p73/unit/
-"IQB Physik Sekundarstufe I Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Physik in der Sekundarstufe I (VERA, Bildungstrend)",item,https://w3id.org/iqb/p73/item/
-"IQB Biologie Sekundarstufe I Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Biologie in der Sekundarstufe I (VERA, Bildungstrend)",unit,https://w3id.org/iqb/p75/unit/
-"IQB Biologie Sekundarstufe I Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Biologie in der Sekundarstufe I (VERA, Bildungstrend)",item,https://w3id.org/iqb/p75/item/
-"IQB Chemie Sekundarstufe I Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Chemie in der Sekundarstufe I (VERA, Bildungstrend)",unit,https://w3id.org/iqb/p77/unit/
-"IQB Chemie Sekundarstufe I Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Chemie in der Sekundarstufe I (VERA, Bildungstrend)",item,https://w3id.org/iqb/p77/item/
+title,description,target,url
+"IQB Mathematik Primarstufe Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Mathematik in der Primarstufe (VERA, Bildungstrend)","UNIT",https://w3id.org/iqb/p11/unit/
+"IQB Mathematik Primarstufe Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Mathematik in der Primarstufe (VERA, Bildungstrend)","ITEM",https://w3id.org/iqb/p11/item/
+"IQB Deutsch Primarstufe Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Deutsch in der Primarstufe (VERA, Bildungstrend)","UNIT",https://w3id.org/iqb/p12/unit/
+"IQB Deutsch Primarstufe Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Deutsch in der Primarstufe (VERA, Bildungstrend)","ITEM",https://w3id.org/iqb/p12/item/
+"IQB Englisch Sekundarstufe I Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Englisch in der Sekundarstufe I (VERA, Bildungstrend)","UNIT",https://w3id.org/iqb/p53/unit/
+"IQB Englisch Sekundarstufe I Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Englisch in der Sekundarstufe I (VERA, Bildungstrend)","ITEM",https://w3id.org/iqb/p53/item/
+"IQB Französisch Sekundarstufe I Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Französisch in der Sekundarstufe I (VERA, Bildungstrend)","UNIT",https://w3id.org/iqb/p52/unit/
+"IQB Französisch Sekundarstufe I Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Französisch in der Sekundarstufe I (VERA, Bildungstrend)","ITEM",https://w3id.org/iqb/p52/item/
+"IQB BT-Fragebögen Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der BT-Fragebögen","UNIT",https://w3id.org/iqb/p60/unit/
+"IQB BT-Fragebögen Items","Metadatenprofile für Items des IQB im Rahmen der BT-Fragebögen","ITEM",https://w3id.org/iqb/p60/item/
+"VerbundFDB: Kernset Bildungsforschung","Metadatenprofile zur Verbesserung der Metadatenqualität hat sich der VerbundFDB mit dem erweiterten Partnerkreis auf ein Kernset von Metadaten geeinigt.","RESEARCH_STUDY",https://w3id.org/iqb/p80/research_study/
+"IQB Deutsch Sekundarstufe I Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Deutsch in der Sekundarstufe I (VERA, Bildungstrend)","UNIT",https://w3id.org/iqb/p16/unit/
+"IQB Deutsch Sekundarstufe I Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Deutsch in der Sekundarstufe I (VERA, Bildungstrend)","ITEM",https://w3id.org/iqb/p16/item/
+"IQB Deutsch Primarstufe 2004 Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Deutsch in der Primarstufe (VERA, Bildungstrend)","UNIT",https://w3id.org/iqb/p14/unit/
+"IQB Deutsch Primarstufe 2004 Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Deutsch in der Primarstufe (VERA, Bildungstrend)","ITEM",https://w3id.org/iqb/p14/item/
+"IQB Deutsch Sekundarstufe I 2003 Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Deutsch in der Sekundarstufe I (VERA, Bildungstrend)","UNIT",https://w3id.org/iqb/p17/unit/
+"IQB Deutsch Sekundarstufe I 2003 Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Deutsch in der Sekundarstufe I (VERA, Bildungstrend)","ITEM",https://w3id.org/iqb/p17/item/
+"IQB Mathematik Primarstufe 2004 Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Mathematik in der Primarstufe (VERA, Bildungstrend)","UNIT",https://w3id.org/iqb/p15/unit/
+"IQB Mathematik Primarstufe 2004 Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Mathematik in der Primarstufe (VERA, Bildungstrend)","ITEM",https://w3id.org/iqb/p15/item/
+"IQB Englisch Sekundarstufe I 2003/2004 Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Englisch in der Sekundarstufe I (VERA, Bildungstrend)","UNIT",https://w3id.org/iqb/p54/unit/
+"IQB Englisch Sekundarstufe I 2003/2004 Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Englisch in der Sekundarstufe I (VERA, Bildungstrend)","ITEM",https://w3id.org/iqb/p54/item/
+"IQB Französisch Sekundarstufe I 2003/2004 Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Französisch in der Sekundarstufe I (VERA, Bildungstrend)","UNIT",https://w3id.org/iqb/p55/unit/
+"IQB Französisch Sekundarstufe I 2003/2004 Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Französisch in der Sekundarstufe I (VERA, Bildungstrend)","ITEM",https://w3id.org/iqb/p55/item/
+"IQB Testprofil Aufgaben","Lange Description Testprofil","UNIT",https://w3id.org/iqb/p99/unit/
+"IQB Testprofil Items","Lange Description Testprofil","ITEM",https://w3id.org/iqb/p99/item/
+"IQB Mathematik Sekundarstufe I Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Mathematik in der Sekundarstufe I (VERA, Bildungstrend)","UNIT",https://w3id.org/iqb/p71/unit/
+"IQB Mathematik Sekundarstufe I Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Mathematik in der Sekundarstufe I (VERA, Bildungstrend)","ITEM",https://w3id.org/iqb/p71/item/
+"IQB Physik Sekundarstufe I Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Physik in der Sekundarstufe I (VERA, Bildungstrend)","UNIT",https://w3id.org/iqb/p73/unit/
+"IQB Physik Sekundarstufe I Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Physik in der Sekundarstufe I (VERA, Bildungstrend)","ITEM",https://w3id.org/iqb/p73/item/
+"IQB Biologie Sekundarstufe I Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Biologie in der Sekundarstufe I (VERA, Bildungstrend)","UNIT",https://w3id.org/iqb/p75/unit/
+"IQB Biologie Sekundarstufe I Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Biologie in der Sekundarstufe I (VERA, Bildungstrend)","ITEM",https://w3id.org/iqb/p75/item/
+"IQB Chemie Sekundarstufe I Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Chemie in der Sekundarstufe I (VERA, Bildungstrend)","UNIT",https://w3id.org/iqb/p77/unit/
+"IQB Chemie Sekundarstufe I Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Chemie in der Sekundarstufe I (VERA, Bildungstrend)","ITEM",https://w3id.org/iqb/p77/item/
