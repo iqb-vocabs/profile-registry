@@ -31,3 +31,4 @@ title,description,target,url
 "IQB Biologie Sekundarstufe I Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Biologie in der Sekundarstufe I (VERA, Bildungstrend)","ITEM",https://w3id.org/iqb/p175/item/
 "IQB Chemie Sekundarstufe I Aufgaben","Metadatenprofile für Aufgaben des IQB im Rahmen der Aufgabenentwicklung für Chemie in der Sekundarstufe I (VERA, Bildungstrend)","UNIT",https://w3id.org/iqb/p177/unit/
 "IQB Chemie Sekundarstufe I Items","Metadatenprofile für Items des IQB im Rahmen der Aufgabenentwicklung für Chemie in der Sekundarstufe I (VERA, Bildungstrend)","ITEM",https://w3id.org/iqb/p177/item/
+"VerbundFDB: Kernset Bildungsforschung","Metadatenprofile zur Verbesserung der Metadatenqualität hat sich der VerbundFDB mit dem erweiterten Partnerkreis auf ein Kernset von Metadaten geeinigt","UNIT",https://w3id.org/iqb/p180/unit/
